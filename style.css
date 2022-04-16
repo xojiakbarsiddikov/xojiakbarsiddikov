@@ -1,0 +1,92 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+img {
+    max-width: 100px;
+    height: 100px;
+    display: flex;
+    margin: 0 auto;
+    margin-top: 2%;
+}
+h1 {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+h2 {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+h3 {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+.message {
+    display: flex;
+    justify-content: center;
+    margin-left: 35%;
+    width: 30%;
+    margin-top: 1%;
+    height: 23px;
+    padding-left: 10px;
+}
+.message1 {
+    display: flex;
+    justify-content: center;
+    margin-left: 35%;
+    width: 30%;
+    margin-top: 1%;
+    height: 23px;
+    padding-left: 10px;
+}
+.message2 {
+    display: flex;
+    justify-content: center;
+    margin-left: 35%;
+    width: 30%;
+    margin-top: 1%;
+    height: 23px;
+    padding-left: 10px;
+}
+.button-primay {
+    display: flex;
+    justify-content: center;
+    margin-left: 48%;
+    width: 4%;
+    margin-top: 1%;
+    height: 25px;
+    background: green;
+    border-radius: 3px;
+    border: 1px solid green;
+    color: #fff;
+    align-items: center;
+}
+.button-primay1 {
+    display: flex;
+    justify-content: center;
+    margin-left: 48%;
+    width: 4%;
+    margin-top: 1%;
+    height: 25px;
+    background: black;
+    border-radius: 3px;
+    border: 1px solid green;
+    color: #fff;
+    align-items: center;
+}
+.button-primay2 {
+    display: flex;
+    justify-content: center;
+    margin-left: 48%;
+    width: 4%;
+    margin-top: 1%;
+    height: 25px;
+    background: red;
+    border-radius: 3px;
+    border: 1px solid green;
+    color: #fff;
+    align-items: center;
+}
